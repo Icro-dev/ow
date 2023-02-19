@@ -1,0 +1,10 @@
+C:\Users\svenn\source\repos\bouwmarkt\koopzondagen\bin\Debug\koopzondagen.dacpac
+C:\Users\svenn\source\repos\bouwmarkt\koopzondagen\bin\Debug\koopzondagen.dll
+C:\Users\svenn\source\repos\bouwmarkt\koopzondagen\bin\Debug\koopzondagen.pdb
+C:\Users\svenn\source\repos\bouwmarkt\koopzondagen\obj\Debug\koopzondagen.sqlproj.AssemblyReference.cache
+C:\Users\svenn\source\repos\bouwmarkt\koopzondagen\obj\Debug\Model.xml
+C:\Users\svenn\source\repos\bouwmarkt\koopzondagen\obj\Debug\refactor.xml
+C:\Users\svenn\source\repos\bouwmarkt\koopzondagen\obj\Debug\postdeploy.sql
+C:\Users\svenn\source\repos\bouwmarkt\koopzondagen\obj\Debug\predeploy.sql
+C:\Users\svenn\source\repos\bouwmarkt\koopzondagen\obj\Debug\koopzondagen.dll
+C:\Users\svenn\source\repos\bouwmarkt\koopzondagen\obj\Debug\koopzondagen.pdb
